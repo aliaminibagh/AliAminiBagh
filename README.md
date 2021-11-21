@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Ali Amini Bagh</h1>
+<h1 align="center">Hi 👋, I'm Ali</h1>
 <h3 align="center">A passionate artificial intelligence expert</h3>
 
-- 🔭 I’m currently working on **machine vision and deep learning algorithms**
+- 🔭 I’m currently working on **DEEP AI : machine vision and machine learning algorithms**
 
 - 🌱 I’m currently learning **NLP, Django**
 
@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/aliaminibagh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aliaminibagh" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aliaminibagh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aliaminibagh" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
