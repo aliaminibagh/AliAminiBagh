@@ -5,7 +5,9 @@
 
 - 🌱 I’m currently learning **NLP, Django**
 
-- 📫 How to reach me **aliaminibagh@gmail.com**
+- 📫 How to reach me
+ **aliaminibagh@gmail.com**
+ **aliaminibagh@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
