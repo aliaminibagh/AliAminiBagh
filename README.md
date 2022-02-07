@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **DEEP AI : machine vision and machine learning algorithms**
 
-- 🌱 I’m currently learning **Machine Vision Applications**, **NLP and Django**
+- 🌱 I’m currently learning **NLP and Speech**, **Django**,**C++**
 
 - 📫 How to reach me
 
